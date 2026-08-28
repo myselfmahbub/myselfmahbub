@@ -1,5 +1,4 @@
-h1 align="center">Hi 👋, I'm Mahbub Mubtasim</h1>
-
+<h1> align="center">Hi 👋, I'm Mahbub Mubtasim</h1>
 <h3 align="center">
 Electrical Engineering • Aspiring Software Developer
 </h3>
