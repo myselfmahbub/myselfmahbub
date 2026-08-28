@@ -1,3 +1,14 @@
+h1 align="center">Hi 👋, I'm Mahbub Mubtasim</h1>
+
+<h3 align="center">
+Electrical Engineering • Aspiring Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Aspiring+AI+Researcher;Software+Developer;Research+Internship+Aspirant" alt="Typing SVG" />
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
