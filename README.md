@@ -1,59 +1,24 @@
-<div align="center">
 
-<h3><code>mahbub@github ~ $ whoami</code></h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mahbub Mubtasim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myself_mubtasim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahbub-mubtasim-0929763a0 ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mahbub Mubtasim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahbubmld23@gmail.com) 
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <!-- Ekhane tomar nijer kono dark aesthetic chobi ba ASCII art image dite paro -->
-      <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/terminal.gif" width="100%" alt="Terminal Animation" />
-    </td>
-    <td align="center" width="50%">
-      <pre>
-M   M  AAA  H   H  BBBB  U   U  BBBB 
-MM MM A   A H   H  B   B U   U  B   B
-M M M AAAAA HHHHH  BBBB  U   U  BBBB 
-M   M A   A H   H  B   B U   U  B   B
-M   M A   A H   H  BBBB   UUU   BBBB 
-      </pre>
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=myselfmahbub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=myselfmahbub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=myselfmahbub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=myselfmahbub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3><code>mahbub@github ~ $ ./contributions.sh</code></h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Eikhane GitHub Snake Animation set kora hoyechhe. Toke ekta GitHub action setup korte hobe eti kaaj korar jonno. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=myselfmahbub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://komarev.com/ghpvc/?username=myselfmahbub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3><code>mahbub@github ~ $ ./links.sh</code></h3>
-
-<b>Robotics Enthusiast · CAD Designer · Engineering Student</b>
-<br><br>
-
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-MAHBUBMUBTASIM.COM-111111?style=for-the-badge&labelColor=555555" alt="Portfolio" />
-  </a>
-  <br>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-MAHBUB_MUBTASIM-0077B5?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/INSTAGRAM-MAHBUB_MUBTASIM-E4405F?style=for-the-badge&labelColor=555555&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <br>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/LIVE_TERMINAL-MAHBUB.GITHUB.IO-00E5FF?style=for-the-badge&labelColor=222222&logo=terminal&logoColor=white" alt="Live Terminal" />
-  </a>
-</p>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
