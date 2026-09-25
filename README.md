@@ -1,10 +1,10 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=220&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Tech%20Explorer%20%7C%20IoT%20%26%20Software%20Developer%20%7C%20Creator%20of%20AttendX&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=220&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Software%20Developer%20%7C%20IoT%20%26%20Computer%20Vision%20Enthusiast%20%7C%20Problem%20Solver&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/myselfmahbub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=50&lines=Software+%26+IoT+Enthusiast+%F0%9F%9A%80;Building+AttendX+%E2%9A%A1;Python+%E2%80%A2+Computer+Vision+%E2%80%A2+Arduino;Turning+Curiosity+Into+Working+Code+%F0%9F%92%A1;Always+Learning+%26+Innovating+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=50&lines=Software+%26+IoT+Enthusiast+%F0%9F%9A%80;Python+%E2%80%A2+Computer+Vision+%E2%80%A2+Arduino;Passionate+Full-Stack+Developer+%F0%9F%92%BB;Turning+Curiosity+Into+Working+Code+%F0%9F%92%A1;Always+Learning+%26+Innovating+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <!-- PROFILE METRICS & SOCIAL BADGES -->
@@ -40,16 +40,15 @@ developer:
   name: Mahbub Mubtasim
   location: India
   role: Software Developer & IoT Enthusiast
-  current_flagship: AttendX ⚡
   passions: [Computer Vision, Embedded Systems, Automation, Full-Stack Web]
   philosophy: "Turn curiosity into code, and code into impactful solutions."
 ```
 
-- 🔭 **Currently Building:** **[AttendX](https://github.com/myselfmahbub)** — An intelligent, automated attendance system integrating Computer Vision and IoT hardware.
+- 🔭 **Currently Building:** Smart IoT systems, Computer Vision applications, and modern web solutions.
 - 🌱 **Currently Exploring:** Advanced Computer Vision models, Deep Learning workflows, and real-time edge processing.
 - 💡 **Core Interests:** Bridging physical hardware with modern software — from Arduino sensors to dynamic web dashboards.
 - 🤝 **Open for Collaboration:** High-impact open-source initiatives, AI/IoT prototypes, and creative web platforms.
-- 💬 **Ask Me About:** Python scripting, OpenCV face recognition/detection, Arduino circuitry, and modern web development.
+- 💬 **Ask Me About:** Python scripting, OpenCV image processing, Arduino circuitry, and modern web development.
 - ⚡ **Fun Fact:** *"There are 10 types of people in this world: those who understand binary, and those who don't!"* ☕🤖
 
 ---
@@ -82,39 +81,15 @@ developer:
 
 ---
 
-### 🚀 Featured Project Spotlight
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>⚡ AttendX — Smart Attendance & Automation System</h3>
-      <p>
-        An intelligent, automated attendance solution designed to streamline monitoring with high accuracy. Integrates computer vision algorithms with smart hardware components for seamless presence tracking and instant reporting.
-      </p>
-      <p>
-        <b>Tech Stack:</b> 
-        <code>Python</code> • <code>OpenCV</code> • <code>Arduino</code> • <code>MySQL</code> • <code>Node.js</code>
-      </p>
-      <p>
-        <a href="https://github.com/myselfmahbub" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <!-- GitHub Stats & Streak Cards side by side -->
   <a href="https://github.com/myselfmahbub">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&rank_icon=github" alt="Mahbub's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/myselfmahbub">
-    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Streak" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Streak" height="180" />
   </a>
 </div>
 
@@ -123,7 +98,7 @@ developer:
 <div align="center">
   <!-- Top Languages Card -->
   <a href="https://github.com/myselfmahbub">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&border_radius=10" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&layout=compact&border_radius=10" alt="Top Languages" height="150" />
   </a>
 </div>
 
