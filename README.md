@@ -38,7 +38,7 @@
 ```yaml
 developer:
   name: Mahbub Mubtasim
-  location: Bangladesh 🇧🇩
+  location: India
   role: Software Developer & IoT Enthusiast
   current_flagship: AttendX ⚡
   passions: [Computer Vision, Embedded Systems, Automation, Full-Stack Web]
