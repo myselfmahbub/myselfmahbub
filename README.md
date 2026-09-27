@@ -86,7 +86,7 @@ developer:
 <div align="center">
   <!-- GitHub Stats & Streak Cards side by side -->
   <a href="https://github.com/myselfmahbub">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="Mahbub's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/myselfmahbub">
     <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Streak" height="180" />
