@@ -102,6 +102,17 @@ developer:
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake.svg" />
+    <img alt="Mahbub's GitHub Contribution Snake" src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### ✍️ Daily Dev Quote
