@@ -1,11 +1,20 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=220&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Software%20Developer%20%7C%20IoT%20%26%20Computer%20Vision%20Enthusiast%20%7C%20Problem%20Solver&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=220&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Software%20Developer%20%7C%20Computer%20Vision%20%26%20Web%20%7C%20Problem%20Solver&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/myselfmahbub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=50&lines=Software+%26+IoT+Enthusiast+%F0%9F%9A%80;Python+%E2%80%A2+Computer+Vision+%E2%80%A2+Arduino;Passionate+Full-Stack+Developer+%F0%9F%92%BB;Turning+Curiosity+Into+Working+Code+%F0%9F%92%A1;Always+Learning+%26+Innovating+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=540&height=50&lines=Software+Developer+%F0%9F%92%BB;Python+%E2%80%A2+Computer+Vision+%E2%80%A2+Web;Turning+Coffee+Into+Working+Code+%E2%98%95;Building+Clean+%26+Scalable+Solutions+%E2%9A%A1;Always+Learning+%26+Innovating+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+
+  <!-- MINI DEV VIBE STATUS -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Debugging_The_Universe-7aa2f7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Fuel-Coffee_%26_Music-f7768e?style=flat-square&logo=coffeescript&logoColor=white" alt="Fuel" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Bugs_Fixed-Always_n%2B1-bb9af7?style=flat-square&logo=python&logoColor=white" alt="Bugs" />
+  </p>
 
   <!-- PROFILE METRICS & SOCIAL BADGES -->
   <p align="center">
@@ -26,7 +35,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/myselfmahbub?tab=followers" target="_blank">
-      <img src="https://img.shields.io/github/followers/myselfmahbub?label=Followers&logo=github&style=for-the-badge&color=1e293b&logoColor=white" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/myselfmahbub?label=Followers&logo=github&style=for-the-badge&color=0ea5e9&logoColor=white" alt="Followers" />
     </a>
   </p>
 </div>
@@ -35,77 +44,55 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-developer:
-  name: Mahbub Mubtasim
-  location: India
-  role: Software Developer & IoT Enthusiast
-  passions: [Computer Vision, Embedded Systems, Automation, Full-Stack Web]
-  philosophy: "Turn curiosity into code, and code into impactful solutions."
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mahbub Mubtasim"
+        self.role = "Software Developer"
+        self.focus = ["Computer Vision", "Python", "Full-Stack Web"]
+        self.fuel = "☕ Coffee & Curiosity"
+
+    def status(self):
+        return "Writing clean, functional code & solving problems 🚀"
 ```
 
-- 🔭 **Currently Building:** Smart IoT systems, Computer Vision applications, and modern web solutions.
-- 🌱 **Currently Exploring:** Advanced Computer Vision models, Deep Learning workflows, and real-time edge processing.
-- 💡 **Core Interests:** Bridging physical hardware with modern software — from Arduino sensors to dynamic web dashboards.
-- 🤝 **Open for Collaboration:** High-impact open-source initiatives, AI/IoT prototypes, and creative web platforms.
-- 💬 **Ask Me About:** Python scripting, OpenCV image processing, Arduino circuitry, and modern web development.
-- ⚡ **Fun Fact:** *"There are 10 types of people in this world: those who understand binary, and those who don't!"* ☕🤖
+- 🔭 **Focus:** Building Computer Vision pipelines, Python tools, and modern web applications.
+- ⚡ **Stack:** Python, OpenCV, NumPy, JavaScript, Node.js, and MySQL.
+- 💡 **Philosophy:** *"Simplicity and efficiency always beat complexity."*
 
 ---
 
-### 🛠️ Tech Stack & Skill Arsenal
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <!-- SkillIcons Modern Interactive Grid -->
+  <!-- SkillIcons Modern Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,nodejs,mysql,opencv,arduino,git,github,vercel,vscode,canva&perline=7" alt="Tech Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,nodejs,mysql,opencv,git,github,vscode,vercel,canva&perline=7&theme=dark" alt="Tech Skills" />
   </a>
 </div>
 
 <br/>
 
 <details open>
-  <summary><b>🔥 Categorized Breakdown</b></summary>
+  <summary><b>⚡ Categorized Stack</b></summary>
   <br/>
 
   | Category | Technologies |
   | :--- | :--- |
-  | 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+  | 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
   | 👁️ **Computer Vision & AI** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-  | ⚡ **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-Sensor_Integration-blue?style=flat-square) |
-  | 🌐 **Backend & Web** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-  | 🗄️ **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-  | 🛠️ **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+  | 🌐 **Web & Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+  | 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+  | 🛠️ **Tools & Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 </details>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🎮 GitHub Contribution Snake
 
 <div align="center">
-  <!-- GitHub Stats & Streak Cards side by side -->
-  <a href="https://github.com/myselfmahbub">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="Mahbub's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/myselfmahbub">
-    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Streak" height="180" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <a href="https://github.com/myselfmahbub">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&layout=compact&border_radius=10" alt="Top Languages" height="150" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Snake Animation -->
+  <p><i>Watch the snake eat through my GitHub commit matrix! 🐍</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake.svg" />
@@ -115,18 +102,58 @@ developer:
 
 ---
 
-### ✍️ Daily Dev Quote
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="https://github.com/myselfmahbub">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="Mahbub's GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/myselfmahbub">
+    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="Mahbub's GitHub Streak" height="175" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/myselfmahbub">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&layout=compact&border_radius=10" alt="Top Languages" height="155" />
+  </a>
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+### 😂 Daily Dose of Dev Humor
 
 <div align="center">
-  <p>Whether you want to discuss a project, brainstorm IoT ideas, or simply chat about tech — feel free to drop a message!</p>
+  <!-- Dynamic live developer joke card that updates on reload -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Interactive Easter Egg dropdown -->
+  <details>
+    <summary><b>🕹️ Developer Easter Egg: Realities of Coding (Click to Reveal)</b></summary>
+    <br/>
+
+| Scenario | Expectation | Reality |
+| :--- | :--- | :--- |
+| 🐛 **Bug in Production** | `git blame` someone else | It was me 3 months ago 💀 |
+| ☕ **Coffee Level == 0** | `while(true): code()` | `SystemError: Brain out of memory` 🛑 |
+| 🚀 **Works on First Run** | Celebrate victory | *Stare suspiciously: "Why does it work?!"* 🤨 |
+| ⏱️ **"Quick 5-Minute Fix"** | Done before tea cools | 4 hours later: rewritten entire module 🫠 |
+
+  </details>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <p>Always open to discussing software architecture, Computer Vision ideas, or collaborating on cool code!</p>
 
   <a href="mailto:mahbubmld23@gmail.com">
     <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
@@ -139,10 +166,6 @@ developer:
   <a href="https://instagram.com/myself_mubtasim" target="_blank">
     <img src="https://img.shields.io/badge/Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Instagram" />
   </a>
-
-  <br/><br/>
-  
-  ⭐️ <i>Don't forget to star repositories you find interesting!</i>
 
   <br/><br/>
 
