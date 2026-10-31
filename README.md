@@ -31,11 +31,11 @@
 
 Hi! 👋 I'm **Mahbub Mubtasim**, a B.Tech student in Electrical Engineering at **Alipurduar Government Engineering and Management College (AGEMC)**.
 
-Although my academic background is in Electrical Engineering, I'm passionate about **Software Development**, **Computer Vision**, and **Web Development**. I enjoy exploring how technology and programming can be used to solve real-world problems, build useful tools, and turn ideas into working applications.
+While pursuing my degree in Electrical Engineering, I have developed a strong interest in **Software Development**, **Computer Vision**, and **Web Development**. I enjoy exploring how technology and programming can be used to solve real-world problems, build practical tools, and turn innovative ideas into working applications.
 
-🔭 **Currently Exploring:** Python, Computer Vision, and Web Development  
-⚡ **Interests:** Building practical projects that combine engineering and software  
-💬 **Open to:** Connecting with developers, discussing ideas, and collaborating on open-source projects
+🔭 **Currently Learning & Exploring:** Python, Computer Vision, and Web Development
+⚡ **Interests:** Building practical projects that combine engineering and software
+💬 **Open to Collaboration:** Connecting with developers, exchanging ideas, and contributing to open-source projects.
 
 ---
 
