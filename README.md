@@ -3,14 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=210&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Computer%20Vision%20%7C%20Software%20Development&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Mahbub Mubtasim Banner" />
 
   </div>
-
+<!-- DEVELOPER ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/main/developer.gif" width="650" alt="Developer Animation" />
+  <img src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/main/developer.gif" width="380" alt="Developer Animation" />
 </p>
 
----
-
-  <!-- DYNAMIC TYPING SVG -->
+<!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/myselfmahbub">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Python+%26+Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Web+Development+%F0%9F%8C%90;Turning+Real-World+Problems+Into+Code+%E2%9A%A1" alt="Typing SVG" />
   </a>
