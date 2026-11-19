@@ -101,3 +101,4 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=120&section=footer&animation=twinkling" width="100%" alt="Mahbub Mubtasim Footer Banner" />
 </div>
+
