@@ -59,17 +59,17 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 
 <p align="center">
   <a href="https://github.com/myselfmahbub">
-    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="195" />
+    <img src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" height="195" />
   </a>
   &nbsp;
   <a href="https://github.com/myselfmahbub">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&card_width=420&custom_title=My%20Programming%20Languages" alt="My Programming Languages" height="195" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&card_width=420&custom_title=Most%20Used%20Languages" alt="Most Used Languages" height="195" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/myselfmahbub">
-    <img src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
+    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -92,11 +92,8 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 <p align="center">
   Always open to discussing software architecture, Computer Vision ideas, or collaborating on cool code!
 </p>
-
 <br/>
-
 <!-- FOOTER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=120&section=footer&animation=twinkling" width="100%" alt="Mahbub Mubtasim Footer Banner" />
 </div>
-
