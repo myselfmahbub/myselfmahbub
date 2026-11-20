@@ -1,35 +1,36 @@
 <div align="center">
   <!-- HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,35,45&height=210&section=header&text=Mahbub%20Mubtasim&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Computer%20Vision%20%7C%20Software%20Development&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Mahbub Mubtasim Banner" />
+</div>
 
-  </div>
 <!-- DEVELOPER ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/main/developer.gif" width="380" alt="Developer Animation" />
 </p>
 
 <!-- DYNAMIC TYPING SVG -->
+<p align="center">
   <a href="https://github.com/myselfmahbub">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Python+%26+Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Web+Development+%F0%9F%8C%90;Turning+Real-World+Problems+Into+Code+%E2%9A%A1" alt="Typing SVG" />
   </a>
+</p>
 
-  <!-- SOCIAL LINKS & METRICS -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mahbub-mubtasim-0929763a0" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:mahbubmld23@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/myself_mubtasim" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-myself__mubtasim-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=myselfmahbub&color=0ea5e9&style=flat-square&label=views" alt="Profile Views" />
-  </p>
-</div>
+<!-- SOCIAL LINKS & METRICS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahbub-mubtasim-0929763a0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mahbubmld23@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/myself_mubtasim" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-myself__mubtasim-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=myselfmahbub&color=0ea5e9&style=flat-square&label=views" alt="Profile Views" />
+</p>
 
 ---
 
