@@ -60,7 +60,7 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 
 <div align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
