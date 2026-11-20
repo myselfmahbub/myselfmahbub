@@ -59,19 +59,17 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 
 <p align="center">
   <a href="https://github.com/myselfmahbub">
+    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="195" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/myselfmahbub">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&card_width=420&custom_title=My%20Programming%20Languages" alt="My Programming Languages" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/myselfmahbub">
     <img src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/myselfmahbub">
-    <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/myselfmahbub">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&card_width=420&custom_title=My%20Programming%20Languages" alt="My Programming Languages" />
   </a>
 </p>
 
