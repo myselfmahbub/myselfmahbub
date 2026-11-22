@@ -5,12 +5,12 @@
 
 <!-- DEVELOPER ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/main/developer.gif" width="380" alt="Developer Animation" />
+  <img src="https://raw.githubusercontent.com/myself-mahbub/myself-mahbub/main/developer.gif" width="380" alt="Developer Animation" />
 </p>
 
 <!-- DYNAMIC TYPING SVG -->
 <p align="center">
-  <a href="https://github.com/myselfmahbub">
+  <a href="https://github.com/myself-mahbub">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&height=45&lines=Python+%26+Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Web+Development+%F0%9F%8C%90;Turning+Real-World+Problems+Into+Code+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Discord-myself__mubtasim-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=myselfmahbub&color=0ea5e9&style=flat-square&label=views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=myself-mahbub&color=0ea5e9&style=flat-square&label=views" alt="Profile Views" />
 </p>
 
 ---
@@ -62,15 +62,15 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&custom_title=Mahbub%20Mubtasim%27s%20GitHub%20Stats" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=myself-mahbub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&custom_title=Mahbub%20Mubtasim%27s%20GitHub%20Stats" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myself-mahbub&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=Most%20Used%20Languages" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=myself-mahbub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -82,9 +82,9 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake.svg" />
-    <img alt="Mahbub's GitHub Contribution Snake" src="https://raw.githubusercontent.com/myselfmahbub/myselfmahbub/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myself-mahbub/myself-mahbub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myself-mahbub/myself-mahbub/output/github-contribution-grid-snake.svg" />
+    <img alt="Mahbub's GitHub Contribution Snake" src="https://raw.githubusercontent.com/myself-mahbub/myself-mahbub/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
