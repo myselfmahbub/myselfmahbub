@@ -56,13 +56,24 @@ While pursuing my degree in Electrical Engineering, I have developed a strong in
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=myselfmahbub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&custom_title=Mahbub%20Mubtasim%27s%20GitHub%20Stats" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=myselfmahbub&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=myselfmahbub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
